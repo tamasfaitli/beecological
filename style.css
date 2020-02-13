@@ -17,6 +17,10 @@ h1 {
     margin-left: 30px;
 }
 
+a {
+    color: rgb(156, 58, 58);
+}
+
 h3 {
     color: white;
     font-size: 1rem;
